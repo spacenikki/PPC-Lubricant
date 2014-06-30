@@ -1,0 +1,185 @@
+#main-container {
+	border: 1px solid pink;
+	height: 750px;
+	width: 1000px;
+	background-color: black;
+}
+
+#header {
+	color: black;
+	width: 1000px;
+	border-bottom: 1px solid gray;
+	height: 80px;
+	background-color: #E8E8E8  ;
+}
+
+	#header img {
+		width: 300px;
+		display: inline-block;
+		position: relative;
+	}
+
+	#header h4 {
+		width: 250px;
+		display: inline-block;
+		text-align: right;
+		/*border: 2px solid green;*/
+		position: relative;
+		left: 400px;
+		bottom: 20px;
+	}
+
+	#header ul {
+	 	margin: 0px;
+	 	padding-left: 5px;
+	}
+
+#navigation a {
+	width: 250px;
+	font-size: 12px;
+	padding-right: none;
+	display: inline;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-right: 1px solid gray;
+	color: gray;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#header a {
+	width: 150px;
+	text-decoration: none;
+	color: black;
+}
+
+#navigation {
+	display: block;
+	background-color: lightgray;
+}
+
+#industrial {
+vertical-align: top;
+}
+
+
+#body {
+	color: lightyellow;
+	display: inline-block;
+	width: 1000px;
+	/*border: 2px solid blue;*/
+	font-size: 15px;
+}
+
+
+#bottom {
+	display: inline-block;
+	width: 980px;
+	padding-left: 20px;
+}
+
+#automotive {
+	display: inline-block;
+	position: relative;
+}
+
+.yh {
+	color: black;
+	background-color: yellow;
+	margin: 0px;
+	font-size: 14px;
+	font-weight: bold;
+	height: 30px;
+	padding-left: 15px;
+	vertical-align: top;
+	margin-top:0px;
+	padding-top: 7px;
+	padding-right: 7px;
+}
+
+#block {
+	display: inline-block;
+	position: relative;
+	width: 550px;
+	height:250px;
+	background-color: gray ;
+	color: white;
+	margin-left: 20px;
+	top: 20px;
+}
+
+
+#middle {
+	width: 1000px;
+	height: 250px;
+}
+
+#house {
+	display: inline-block;
+	position: relative;
+	top: 0px;
+	width: 350px;
+	border: 10px solid white;
+	vertical-align: top;
+	top: 20px;
+}
+
+.square {
+	display: inline-block;
+	position: relative;
+	height: 300px;
+	width: 220px;
+	margin-left: 5px;
+	background-color: white;
+	margin-left: 15px;
+}
+
+.square p {
+	font-size: 14px;
+	padding-left: 20px;
+	color: black;
+}
+
+#bb {
+	/*background-color: #484848;*/
+	color: white;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-right: 
+}
+
+p {
+	font-weight: normal;
+}
+
+#bar {
+	width: 1000px;
+	height: 60px;
+
+}
+
+#bar p { 
+	display: inline-block;
+	position: relative;
+	left: 20px;
+	vertical-align: top;
+	top: 20px;
+}
+
+#bb h5 {
+	font-size: 16px;
+	margin-top: 15px;
+}
+
+img {
+	width: 220px;
+	height: auto;
+	}
+
+#small {
+	width: 60px;
+	vertical-align: bottom;
+	margin-top: 35px; 
+	margin-left: 40px;
+	/*picture and boxes*/
+}
